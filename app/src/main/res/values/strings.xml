@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Toast</string>
+    <string name="btnToastText"> Toast</string>
+    <string name="btnCountText"> Count</string>
+    <string name="count_init">0</string>
+    <string name="toast_message"> Hello Android!</string>
+</resources>
